@@ -1,0 +1,19 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "test-api",
+  "main": "index.js",
+  "author": "Asadbek Eshboev",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
